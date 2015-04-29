@@ -1,0 +1,1 @@
+initSidebarItems({"static":[["DOES_CONST",""],["GOAL_CONST",""],["LEGAL_CONST",""],["NEXT_CONST",""],["NIL_MOVE",""],["TERMINAL_CONST",""],["TRUE_CONST",""]],"struct":[["DOES_CONST",""],["GOAL_CONST",""],["LEGAL_CONST",""],["NEXT_CONST",""],["NIL_MOVE",""],["TERMINAL_CONST",""],["TRUE_CONST",""]]});
